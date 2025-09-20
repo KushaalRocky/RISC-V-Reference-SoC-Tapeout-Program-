@@ -6,8 +6,8 @@ My learning and report module for the 10-week program organized by VSD
 ### **System Requirements**
 
 - 50 GB HDD
-- - 6 GB RAM
-- - 4 vCPU
+- 6 GB RAM
+- 4 vCPU
 - Ubuntu 20.04 or higher
 
 
